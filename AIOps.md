@@ -23,12 +23,12 @@
 ### 查看算法检测出的异常
 > 查看实时异常告警
 > 查看历史异常告警
-> 对于历史异常告警，根据图像判断是否判断zheng
+> 对于历史异常告警，根据图像判断是否判断正确，选择标记为正/负样本，系统会定时反馈给机器学习算法
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDczNzk0NjQsLTE2MzMzNjU2NzcsOT
+eyJoaXN0b3J5IjpbLTE4ODcyNTM1MDAsLTE2MzMzNjU2NzcsOT
 Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
 ODgwNTRdfQ==
 -->
