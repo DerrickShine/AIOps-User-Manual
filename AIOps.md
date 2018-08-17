@@ -12,17 +12,18 @@
 
 ### 将想要监测的曲线加入系统
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
-> 输入可以拉取到曲线的url、query-body信息，测试，添加
+> 输入可以拉取到曲线的`url`、`query-body`信息，测试，添加
 > 添加成功后的曲线可以在上方查询、删除
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
-> 左右拖动时间窗口，在异常区域按住左键拖放鼠标biaoy
+> 左右拖动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+> 系统会自动保
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODI4NjgwNywtMTYzMzM2NTY3Nyw5ND
-U0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4
-ODA1NF19
+eyJoaXN0b3J5IjpbLTEzNTg4NTcyMjMsLTE2MzMzNjU2NzcsOT
+Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
+ODgwNTRdfQ==
 -->
