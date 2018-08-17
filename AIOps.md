@@ -2,7 +2,7 @@
 
 ### Quick Start
 
-### User Manual
+### [User Manual](#)
 1. 添加/删除曲线
 2. 标注异常
 3. 查看告警
@@ -14,6 +14,6 @@
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyOTE4MDAxLDIwODQ4MTg4OTcsLTE2MT
+eyJoaXN0b3J5IjpbMzU1MTIxODgxLDIwODQ4MTg4OTcsLTE2MT
 UzODgwNTRdfQ==
 -->
