@@ -14,8 +14,7 @@
 > 进入配置页面
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 > 输入可以拉取到曲线的`url`、`query-body`信息，测试，添加
-![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/[add_curve](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_curve.png))
-> 添加成功后的曲线可以在页面上方查询、删除
+![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_curve.png)
 > **PS**：此系统的各个页面中，`曲线名`、`url`、`query-body`、`曲线id`等字符串信息左键单击即可复制
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
@@ -27,7 +26,7 @@
 > 查看实时异常告警
 > 查看历史异常告警
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
-> 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的kuzu）
+> 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的例子越多）
 
 ### 可视化已添加曲线
 > 通过曲线的`id`、`name`、`source`等信息查询曲线，添加到页面中
@@ -37,8 +36,8 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDE0NzI3OSwyNjEwODcwODcsLTkwMz
-kyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1
-Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC
-0xNjE1Mzg4MDU0XX0=
+eyJoaXN0b3J5IjpbLTE1MDkyNzM4MzYsMjYxMDg3MDg3LC05MD
+M5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYzMzM2
+NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5Ny
+wtMTYxNTM4ODA1NF19
 -->
