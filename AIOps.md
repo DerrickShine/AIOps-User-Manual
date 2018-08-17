@@ -21,12 +21,14 @@
 > 无需手动保存更改
 
 ### 查看算法检测出的异常
-> 
+> 查看实时异常告警
+> 查看历史异常告警
+> 对于历史异常告警，根据图像判断是否判断zheng
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0NzQzNDg0LC0xNjMzMzY1Njc3LDk0NT
-Q1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4
-MDU0XX0=
+eyJoaXN0b3J5IjpbLTExNDczNzk0NjQsLTE2MzMzNjU2NzcsOT
+Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
+ODgwNTRdfQ==
 -->
