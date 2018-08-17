@@ -14,7 +14,7 @@
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 > 输入可以拉取到曲线的`url`、`query-body`信息，测试，添加
 > 添加成功后的曲线可以在页面上方查询、删除
-> `PS`在此系统中，曲线名、url、
+> PS**在此系统中，`曲线名`、`url`、`query-body`、`曲线id`等字符串信息可以通过
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
@@ -32,7 +32,7 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA0MzY0OTMsLTEzNzM1NzkzOTUsLT
-E2MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4
-MTg4OTcsLTE2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbLTUxNjc5MjM5OCwtMTM3MzU3OTM5NSwtMT
+YzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgx
+ODg5NywtMTYxNTM4ODA1NF19
 -->
