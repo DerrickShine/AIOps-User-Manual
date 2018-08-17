@@ -20,12 +20,12 @@
 > 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
 > 无需手动保存更改
 
-### 
+### 查看算法
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTUzOTY0NywtMTYzMzM2NTY3Nyw5ND
-U0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4
-ODA1NF19
+eyJoaXN0b3J5IjpbNTg5MzExNTc5LC0xNjMzMzY1Njc3LDk0NT
+Q1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4
+MDU0XX0=
 -->
