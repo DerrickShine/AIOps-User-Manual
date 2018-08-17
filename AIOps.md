@@ -25,12 +25,13 @@
 > 查看历史异常告警
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
 
-### 查看添加
+### 查看已添加曲线
+> 
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI2MjMzMzYsLTE2MzMzNjU2NzcsOT
+eyJoaXN0b3J5IjpbLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOT
 Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
 ODgwNTRdfQ==
 -->
