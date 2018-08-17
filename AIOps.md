@@ -27,7 +27,7 @@
 > 查看实时异常告警
 > 查看历史异常告警
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
-> 在配置页面中调整算法敏感度（敏感度越高，）
+> 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的kuzu）
 
 ### 可视化已添加曲线
 > 通过曲线的`id`、`name`、`source`等信息查询曲线，添加到页面中
@@ -37,7 +37,7 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzUxMjQzNiwyNjEwODcwODcsLTkwMz
+eyJoaXN0b3J5IjpbMTIxMDE0NzI3OSwyNjEwODcwODcsLTkwMz
 kyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1
 Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC
 0xNjE1Mzg4MDU0XX0=
