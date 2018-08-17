@@ -27,9 +27,11 @@
 > 查看实时异常告警
 ![进入告警页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_alert.png)
 > 查看历史异常告警
-![进入告警标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_alert.png)
+![进入告警标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_label.png)
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
+![标注反馈](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_detected.png)
 > 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的例子越多）
+![调整su](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_label.png)
 
 ### 可视化已添加曲线
 > 通过曲线的`id`、`name`、`source`等信息查询曲线，添加到页面中
@@ -39,8 +41,8 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MT
-A4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1Nzkz
-OTUsLTE2MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LD
-IwODQ4MTg4OTcsLTE2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbLTUzMTc5MDM3LDExMDkwNzM1MTQsLTY2Mj
+U2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMx
+LC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1MiwtMT
+c4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0XX0=
 -->
