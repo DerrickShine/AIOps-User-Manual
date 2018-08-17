@@ -17,13 +17,15 @@
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
-> 左右拖动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
-> 系统会自动保
+> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+> 无需手动保存更改
+
+### 
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg4NTcyMjMsLTE2MzMzNjU2NzcsOT
-Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
-ODgwNTRdfQ==
+eyJoaXN0b3J5IjpbMTg2MTUzOTY0NywtMTYzMzM2NTY3Nyw5ND
+U0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4
+ODA1NF19
 -->
