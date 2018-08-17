@@ -12,9 +12,10 @@
 > 将想要监测的曲线加入系统
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 
+
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc4Mjk1OTYsMjA4NDgxODg5NywtMT
+eyJoaXN0b3J5IjpbLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMT
 YxNTM4ODA1NF19
 -->
