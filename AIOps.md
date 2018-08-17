@@ -27,12 +27,12 @@
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
 
 ### 查看已添加曲线
-> 
+> 通过曲线的`id`、`name`、`source`等信息查询曲线
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMT
-YzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgx
-ODg5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbLTE1Nzg5MzU2NDEsLTE0ODk3NzQzMSwtMT
+M3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAy
+MTY4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF19
 -->
