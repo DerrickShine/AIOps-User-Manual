@@ -31,18 +31,22 @@
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
 ![标注反馈](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_detected.png)
 > 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的例子越多）
-![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/.png)
+![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/tune_sensitivity.png)
 
 ### 可视化已添加曲线
 > 通过曲线的`id`、`name`、`source`等信息查询曲线，添加到页面中
+![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_graph.png)
 > 选择时间区间查看特定时间段内曲线
+![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/tune_sensitivity.png)
 > 添加的`Graph`可以左键拖动`zoom-in`自由选择时间区间；可以固定在页面中（刷新后保持）和删除
+![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/tune_sensitivity.png)
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02Nj
-I1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQz
-MSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLT
-E3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbMTkxOTM3MTM5LDE1NzQ4MDEyNDYsMTEwOT
+A3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIy
+LC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOT
+Q1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUz
+ODgwNTRdfQ==
 -->
