@@ -19,8 +19,7 @@
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
-![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/sea.png)
-> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
 > 无需手动保存更改
 
 ### 查看算法检测出的异常
@@ -37,8 +36,8 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY2OTY5NzUsMjYxMDg3MDg3LC05MD
-M5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYzMzM2
-NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5Ny
-wtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbNzgwODE4ODU5LDI2MTA4NzA4NywtOTAzOT
+I1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2
+NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLT
+E2MTUzODgwNTRdfQ==
 -->
