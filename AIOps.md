@@ -11,6 +11,7 @@
 ## Quick Start
 
 ### 将想要监测的曲线加入系统
+
 > 进入配置页面
 ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 > 输入可以拉取到曲线的`url`、`query-body`信息，测试，添加
@@ -19,7 +20,8 @@
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
-![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)
+> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
 ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling.png)
 > 无需手动保存更改
 
@@ -44,7 +46,7 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODA4MDc5NSwxNTc0ODAxMjQ2LDExMD
+eyJoaXN0b3J5IjpbLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMD
 kwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIy
 MiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LD
 k0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1
