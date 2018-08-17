@@ -39,12 +39,12 @@
 > 选择时间区间查看特定时间段内曲线
 ![选取时间](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/range_time.png)
 > 添加的`Graph`可以左键拖动`zoom-in`自由选择时间区间；可以固定在页面中（刷新后保持）和删除
-![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/tune_sensitivity.png)
+![观察图片](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/viewing_graph.png)
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTM2OTQ4NiwxNTc0ODAxMjQ2LDExMD
+eyJoaXN0b3J5IjpbMTM0ODA4MDc5NSwxNTc0ODAxMjQ2LDExMD
 kwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIy
 MiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LD
 k0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1
