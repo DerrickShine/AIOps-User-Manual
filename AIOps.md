@@ -3,10 +3,10 @@
 ### [QuickStart](#quick-start)
 
 ### [UserManual](#user-manual)
-1. 添加/删除曲线
-2. 标注异常
-3. 查看告警
-4. 查看曲线
+1. 配置
+2. 标注
+3. 告警
+4. 可视化
 
 ## Quick Start
 > 将想要监测的曲线加入系统
@@ -16,6 +16,6 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMT
-YxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbOTk1Nzc5MzAsLTE3ODAyMTY4MTQsMjA4ND
+gxODg5NywtMTYxNTM4ODA1NF19
 -->
