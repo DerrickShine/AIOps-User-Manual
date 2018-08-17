@@ -17,12 +17,12 @@
 
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
-> 
+> 左右拖动时间窗口，在异常区域按住左键拖放鼠标biaoy
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTQyODE4MCwtMTYzMzM2NTY3Nyw5ND
+eyJoaXN0b3J5IjpbMTI5ODI4NjgwNywtMTYzMzM2NTY3Nyw5ND
 U0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4
 ODA1NF19
 -->
