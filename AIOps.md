@@ -29,12 +29,13 @@
 ### 可视化已添加曲线
 > 通过曲线的`id`、`name`、`source`等信息查询曲线，添加到页面中
 > 选择时间区间查看特定时间段内曲线
-> 添加的`Graph`可以固定在页面中（刷新后保持）和删除
+> 添加的`Graph`可以左键拖动`zoom-in`自由选择时间区间；可以固定在页面中（刷新后保持）和删除
 
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMz
-czNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1MiwtMTc4MDIx
-NjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0XX0=
+eyJoaXN0b3J5IjpbMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0OD
+k3NzQzMSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3
+NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF
+19
 -->
