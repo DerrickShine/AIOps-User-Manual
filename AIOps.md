@@ -20,10 +20,12 @@
 ### 标注现有曲线历史上的异常点，供机器学习算法训练
 > 找出并点选曲线
 ![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling.png)
 > 无需手动保存更改
 
 ### 查看算法检测出的异常
 > 查看实时异常告警
+![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)
 > 查看历史异常告警
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
 > 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的例子越多）
@@ -36,8 +38,8 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwODE4ODU5LDI2MTA4NzA4NywtOTAzOT
-I1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2
-NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLT
-E2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMz
+kyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1
+Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC
+0xNjE1Mzg4MDU0XX0=
 -->
