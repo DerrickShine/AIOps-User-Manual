@@ -1,12 +1,11 @@
 # AIOps User  Guide
 
-### [QuickStart](#quick-start)
-
-### [UserManual](#user-manual)
+### [基本操作](#quick-start)
+### [用户手册](#user-manual)
 1. [配置](#config)
-2. 标注](#config)
-3. 告警](#config)
-4. 可视化](#config)
+2. [标注](#labelling)
+3. [告警](#alerting)
+4. [可视化](#visualization)
 
 ## Quick Start
 
@@ -62,6 +61,7 @@
 
 ### 1. Config
 
+
 ### 2. Labelling
 
 ### 3. Alerting
@@ -71,10 +71,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA5Nzg0MjQsLTIxMTM2MzA1MDksMj
-AxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3
-MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC
-0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1
-NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUzOD
-gwNTRdfQ==
+eyJoaXN0b3J5IjpbMTg0NzM0MDY1OCwtMjExMzYzMDUwOSwyMD
+ExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDcz
+NTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLT
+E0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0
+NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxODg5NywtMTYxNTM4OD
+A1NF19
 -->
