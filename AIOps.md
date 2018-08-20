@@ -96,8 +96,8 @@
 ![标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_page.png)
 
 **检查历史异常预测**
-- 历史上算法预测出的异常会保存在此页面，可以定时查看算法的预测情况，并且将真实结果反馈给算法，不断提高算法性能
-- 参考曲线最近的趋势和一天前一周前的趋势，判断是否为异常
+- 历史上算法预测出的异常会保存在此页面，可以随时查看算法的预测情况，将真实结果反馈给算法，以此来不断提高算法性能
+- 参考曲线最近的趋势和一天前、一周前的趋势，判断是否为异常
 - 若真的为异常情况，应`label as abnormal`；为正常情况，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记
 - `retrain`模型时，算法会使用所有的异常数据，抽样选取正常数据（会优先选取反馈的负样本）重新训练，故此环节是算法不断提高准确度，学会发现新形式的异常点的关键
 
@@ -130,11 +130,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzQ4MTI2MiwtNzQ0MjE3ODIsNzMzMz
-A5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYsLTUzMTgxMDAxMywx
-MDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgxODAsLTEwMj
-IwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYw
-OTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLD
-I2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1
-NzkzOTVdfQ==
+eyJoaXN0b3J5IjpbMzQ4NDg1NTQyLC03NDQyMTc4Miw3MzMzMD
+kyNCw3Nzg4ODYzNjAsLTM1MjE3ODQ4NiwtNTMxODEwMDEzLDEw
+MDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMTAyMj
+AzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5
+NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMj
+YxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3
+OTM5NV19
 -->
