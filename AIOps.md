@@ -90,7 +90,8 @@
 
 **检查历史异常预测**
 - 历史上算法预测出的异常会保存在此页面，可以定时查看算法的预测情况，并且将真实结果反馈给算法，不断提高算法性能
-- 若真的为异常情况，应`label as abnormal`；为正常情况
+- 若真的为异常情况，应`label as abnormal`；为正常情况，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记
+- `retrain`模型时，算法会使用所有的异常数据，ch
 
 
 ### - Alerting
@@ -101,7 +102,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NjIxMTg4LC0xNjg2MDcyOTk1LC01Mz
+eyJoaXN0b3J5IjpbNjk2MTc5MzcyLC0xNjg2MDcyOTk1LC01Mz
 kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
 MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
 wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
