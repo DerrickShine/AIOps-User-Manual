@@ -85,7 +85,7 @@
 - 画面上含一天前和一周前的图线情况供标注参考，某些与昨天/上周相似的趋势不应被认为是异常，而是周期性的变化；算法也会考虑这一特征
 - 按住Ctrl拖动鼠标选取主图线时间区域将异常点标红，按住Shift拖动鼠标取消某段时间的标红，标红的区间内所有点都会记录为异常点，用作算法训练
 - 由于异常点样本稀少，异常样本在训练中权重较高，应当尽量保证数据质量，故最好能做到不多标，例如出现尖峰情况，还没开始上升的时间点和下降后已平稳的时间点不应标红
-- 
+
 ![错误](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/wrong_label.png)![正确](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/correct_label.png)
 
 ### - Labelling
@@ -125,11 +125,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkwMzkzNjksNzMzMzA5MjQsNzc4OD
-g2MzYwLC0zNTIxNzg0ODYsLTUzMTgxMDAxMywxMDA4OTUxNTg1
-LC0xNjg2MDcyOTk1LC01MzkzMjgxODAsLTEwMjIwMzQ1NzAsLT
-IxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4
-MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4Ny
-wtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2
-MzMzNjU2NzddfQ==
+eyJoaXN0b3J5IjpbLTc0NDIxNzgyLDczMzMwOTI0LDc3ODg4Nj
+M2MCwtMzUyMTc4NDg2LC01MzE4MTAwMTMsMTAwODk1MTU4NSwt
+MTY4NjA3Mjk5NSwtNTM5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMT
+EzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAx
+MjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLT
+kwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMz
+MzY1Njc3XX0=
 -->
