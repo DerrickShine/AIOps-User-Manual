@@ -72,16 +72,16 @@
 - 添加成功可在上方查到，也可点击`remove`删除
 - 本系统页面中的`url`，`KID`，`name`等字符串均可通过左键点击复制到剪贴板，然后可粘贴到`Filter`查询框中进行查询
 
-**2. 设置算法阈值**
+**- 设置算法阈值**
 - 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity%`之上的点判定为异常，显示到告警页面中。
 - 可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量（`Sensitivity`越高，告警越多，反之亦然）
 
 ---
-### - Curve
+### 2. Curve
 
 ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/curve.png)
 
-**标注异常**
+**- 标注异常**
 - 使用输入框查询到特定曲线后，在下方标注异常点
 - 通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
 - 画面上含一天前和一周前的图线情况供标注参考，某些与昨天/上周相似的趋势不应被认为是异常，而是周期性的变化；算法也会考虑一天前的趋势和一周前的趋势这些特征
@@ -91,11 +91,11 @@
 ![错误](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/wrong_label.png)![正确](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/correct_label.png)
 
 ---
-### - Labelling
+### 3. Labelling
 
 ![标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_page.png)
 
-**检查历史异常预测**
+**- 检查历史异常预测**
 - 历史上算法预测出的异常会保存在此页面，可以随时查看算法的预测情况，将真实结果反馈给算法，以此来不断提高算法性能
 - 参考曲线最近的趋势和一天前、一周前的趋势，判断是否为异常
 - 若真为异常，应`label as abnormal`，此区域的所有红点将会记录为异常点作为之后的训练数据；为正常，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记，则不会进入训练集
@@ -103,7 +103,7 @@
 - 故此环节是算法不断提高准确度，学会发现新形式的异常点的关键
 
 ---
-### - Alerting
+### 4. Alerting
 
 ![告警页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/alert.png)
 
@@ -112,16 +112,16 @@
 - 若觉得告警数量太多/太少，可以通过调低/调高配置页面中的`Sensitivity`来控制
 
 ---
-### - Visualization
+### 5. Visualization
 
 ![可视化页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/visualization.png)
 
-**1. 查找曲线**
+**- 查找曲线**
 - 在`filter`里输入关键词（如km）或曲线ID的一部分可快速查询到想要查询的曲线
 - 勾选一幅或多幅后`Add Graph`（多幅时可以指定`Group Name`）添加到版面中
 - 添加后可以通过graph中右上方的操作栏将此图固定（pin）（刷新页面后保持），取消固定（unpin），移除（remove）
 
-**2. 查看曲线**
+**- 查看曲线**
 
 ![操作栏](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/op_bar.png)
 - 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间前/后移`，`时域缩/放`，`日历上自由选择时间区间`
@@ -131,11 +131,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjI5OTIyOCwxNjI2OTUwODE0LC03ND
-QyMTc4Miw3MzMzMDkyNCw3Nzg4ODYzNjAsLTM1MjE3ODQ4Niwt
-NTMxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOT
-MyODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTky
-MTU3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC
-02NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3
-NzQzMV19
+eyJoaXN0b3J5IjpbLTE0NDY4NjI1ODAsMTYyNjk1MDgxNCwtNz
+Q0MjE3ODIsNzMzMzA5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYs
+LTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01Mz
+kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
+MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
+wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
+Nzc0MzFdfQ==
 -->
