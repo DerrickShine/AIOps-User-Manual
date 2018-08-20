@@ -79,7 +79,7 @@
 使用输入框查询到特定曲线后，在下方标注异常点
 通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
 按住Ctrl拖动鼠标选取主图线时间区域将异常点标红，按住Shift拖动鼠标取消某段时间的标红
-由于异常点样本稀少，应当尽量保证数据质量，故最好做到不多标，例如出现尖峰情况，还没上升
+由于异常点样本稀少，异常样本在训练中权重较高，应当尽量保证数据质量，故最好能做到不多标，例如出现尖峰情况，还没开始上升的时间点和下降后已平稳的时间点不应标红
 
 
 ### - Labelling
@@ -93,10 +93,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzMxNjIyMCwtNTM5MzI4MTgwLC0xMD
-IyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2
-MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3Mi
-wyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzcz
-NTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNj
-gxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0XX0=
+eyJoaXN0b3J5IjpbLTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMT
+AyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4
+NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNz
+IsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3
+MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMT
+Y4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF19
 -->
