@@ -3,9 +3,10 @@
 ### [基本操作](#quick-start)
 ### [用户手册](#user-manual)
 1. [配置](#config)
-2. [标注](#labelling)
-3. [告警](#alerting)
-4. [可视化](#visualization)
+2. [标注](#curve)
+3. [标注](#labelling)
+4. [告警](#alerting)
+5. [可视化](#visualization)
 
 ## Quick Start
 
@@ -131,11 +132,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY4NjI1ODAsMTYyNjk1MDgxNCwtNz
-Q0MjE3ODIsNzMzMzA5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYs
-LTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01Mz
-kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
-MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
-wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
-Nzc0MzFdfQ==
+eyJoaXN0b3J5IjpbNzcyNjU0MDA5LDE2MjY5NTA4MTQsLTc0ND
+IxNzgyLDczMzMwOTI0LDc3ODg4NjM2MCwtMzUyMTc4NDg2LC01
+MzE4MTAwMTMsMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5Mz
+I4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIx
+NTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLT
+Y2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3
+NDMxXX0=
 -->
