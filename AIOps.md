@@ -69,6 +69,7 @@
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/kibana.png)
 
 - 添加成功可在上方查到，也可点击`remove`删除
+- 本系统页面中的`url``KI`
 
 **2. 设置算法阈值**
 - 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
@@ -109,11 +110,12 @@
 ![可视化页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/visualization.png)
 
 **查找曲线**
-- 在`filter`里输入
+- 在`filter`里输入关键词（如km）或曲线ID的一部分可快速查询到想要查询的曲线
+- 勾选一幅或多幅后
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0Njc3MjcsLTM1MjE3ODQ4NiwtNT
+eyJoaXN0b3J5IjpbLTExNDI1NjE3MTAsLTM1MjE3ODQ4NiwtNT
 MxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMy
 ODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMT
 U3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02
