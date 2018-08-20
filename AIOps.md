@@ -34,9 +34,11 @@
 ### 查看算法检测出的异常
 
 > 查看实时异常告警
+> 
 > ![进入告警页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_alert.png)
 
 > 查看历史异常告警
+> 
 > ![进入告警标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_label.png)
 
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
@@ -59,7 +61,7 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDI0MTc4MywyMDExOTkyMTU3LC0xMj
+eyJoaXN0b3J5IjpbLTc4MTUyNjY2NSwyMDExOTkyMTU3LC0xMj
 A4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEz
 NzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMT
 M3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAy
