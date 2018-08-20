@@ -78,8 +78,10 @@
 **标注异常**
 使用输入框查询到特定曲线后，在下方标注异常点
 通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
+画面上含一天前和一周前的图线情况供c
 按住Ctrl拖动鼠标选取主图线时间区域将异常点标红，按住Shift拖动鼠标取消某段时间的标红
 由于异常点样本稀少，异常样本在训练中权重较高，应当尽量保证数据质量，故最好能做到不多标，例如出现尖峰情况，还没开始上升的时间点和下降后已平稳的时间点不应标红
+![错误](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/wrong_label.png)![正确](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/correct_label.png)
 
 
 ### - Labelling
@@ -93,10 +95,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMT
-AyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4
-NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNz
-IsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3
-MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMT
-Y4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbLTM0NTkwMzgwNSwtMTY4NjA3Mjk5NSwtNT
+M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
+OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
+QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
+OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1OD
+c1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0
+XX0=
 -->
