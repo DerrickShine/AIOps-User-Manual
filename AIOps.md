@@ -84,7 +84,7 @@
 **标注异常**
 - 使用输入框查询到特定曲线后，在下方标注异常点
 - 通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
-- 画面上含一天前和一周前的图线情况供标注参考，某些与昨天/上周相似的趋势不应被认为是异常，而是周期性的变化；算法也会考虑这一特征
+- 画面上含一天前和一周前的图线情况供标注参考，某些与昨天/上周相似的趋势不应被认为是异常，而是周期性的变化；算法也会考虑一天前的趋势和一周前的趋势这些特征
 - 按住Ctrl拖动鼠标选取主图线时间区域将异常点标红，按住Shift拖动鼠标取消某段时间的标红，标红的区间内所有点都会记录为异常点，用作算法训练
 - 由于异常点样本稀少，异常样本在训练中权重较高，应当尽量保证数据质量，故最好能做到不多标，例如出现尖峰情况，还没开始上升的时间点和下降后已平稳的时间点不应标红
 
@@ -130,7 +130,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTk3ODQ0MCwtNzQ0MjE3ODIsNzMzMz
+eyJoaXN0b3J5IjpbLTY3NzQ4MTI2MiwtNzQ0MjE3ODIsNzMzMz
 A5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYsLTUzMTgxMDAxMywx
 MDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgxODAsLTEwMj
 IwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYw
