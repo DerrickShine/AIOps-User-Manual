@@ -66,6 +66,8 @@
 - 目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
 上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据，再将`url`和`query`输入，Test，Add，即可添加。
+![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/kibana.png)
+
 - 添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
@@ -108,11 +110,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNT
-M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
-OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
-QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
-OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1OD
-c1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0
-XX0=
+eyJoaXN0b3J5IjpbLTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNj
+g2MDcyOTk1LC01MzkzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2
+MzA1MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyND
+YsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAz
+OTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNj
+U2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcs
+LTE2MTUzODgwNTRdfQ==
 -->
