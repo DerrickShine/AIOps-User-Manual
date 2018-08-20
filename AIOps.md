@@ -72,9 +72,15 @@
 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
 可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量。
 
+### - Curve
+
+
+**标注异常**
+
+
+
 ### - Labelling
 
-****
 
 ### - Alerting
 
@@ -84,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzYzMDQ2NSwtNTM5MzI4MTgwLC0xMD
+eyJoaXN0b3J5IjpbMjAzNTUzODU0OSwtNTM5MzI4MTgwLC0xMD
 IyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2
 MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3Mi
 wyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzcz
