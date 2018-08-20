@@ -69,7 +69,8 @@
 添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
-机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`threshold`之上的点判定为异常，显示到告警页面中，
+机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
+可以自行调整`Sensitivity`，
 
 ### - Labelling
 
@@ -80,10 +81,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIyNjE5MTYsLTEwMjIwMzQ1NzAsLT
-IxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4
-MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4Ny
-wtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2
-MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MT
-g4OTcsLTE2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbLTMwMTQwMTI2NiwtMTAyMjAzNDU3MCwtMj
+ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
+MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
+05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
+MzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxOD
+g5NywtMTYxNTM4ODA1NF19
 -->
