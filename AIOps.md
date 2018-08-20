@@ -13,6 +13,7 @@
 ### 将想要监测的曲线加入系统
 
 > 进入配置页面
+> 
 > ![进入Setting页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/entering_setting.png)
 
 > 输入可以拉取到曲线的`url`、`query-body`信息，测试，添加
@@ -58,9 +59,9 @@
 ## User Manual
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc2Mjc3MDksMjAxMTk5MjE1NywtMT
-IwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYx
-MzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLT
-EzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgw
-MjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbMTU2MDI0MTc4MywyMDExOTkyMTU3LC0xMj
+A4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEz
+NzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMT
+M3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAy
+MTY4MTQsMjA4NDgxODg5NywtMTYxNTM4ODA1NF19
 -->
