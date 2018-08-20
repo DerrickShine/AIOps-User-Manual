@@ -77,7 +77,8 @@
 ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/curve.png)
 **标注异常**
 使用输入框查询到特定曲线后，在下方标注异常点
-按住Ctrl拖动鼠标
+通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
+按住Ctrl拖动鼠标选取主图线时间区域将异常点标红，按住Shift拖动鼠标取消某段时间的
 
 
 ### - Labelling
@@ -91,7 +92,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzgyMzI5NiwtNTM5MzI4MTgwLC0xMD
+eyJoaXN0b3J5IjpbMTk0NjM5MzIxMCwtNTM5MzI4MTgwLC0xMD
 IyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2
 MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3Mi
 wyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzcz
