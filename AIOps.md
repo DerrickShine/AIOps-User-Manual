@@ -60,6 +60,7 @@
 ## User Manual
 
 ### - Config
+
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/configuration.png)
 
 **1. 新增监控数据**
@@ -75,6 +76,7 @@
 - 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity%`之上的点判定为异常，显示到告警页面中。
 - 可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量（`Sensitivity`越高，告警越多，反之亦然）
 
+---
 ### - Curve
 
 ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/curve.png)
@@ -88,6 +90,7 @@
 
 ![错误](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/wrong_label.png)![正确](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/correct_label.png)
 
+---
 ### - Labelling
 
 ![标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_page.png)
@@ -98,6 +101,7 @@
 - 若真的为异常情况，应`label as abnormal`；为正常情况，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记
 - `retrain`模型时，算法会使用所有的异常数据，抽样选取正常数据（会优先选取反馈的负样本）重新训练，故此环节是算法不断提高准确度，学会发现新形式的异常点的关键
 
+---
 ### - Alerting
 
 ![告警页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/alert.png)
@@ -106,6 +110,7 @@
 - 此页面会显示出所有目前（1h内）有异常点的曲线，点击可查看曲线趋势状况
 - 若觉得告警数量太多/太少，可以通过调低/调高配置页面中的`Sensitivity`来控制
 
+---
 ### - Visualization
 
 ![可视化页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/visualization.png)
@@ -125,11 +130,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDIxNzgyLDczMzMwOTI0LDc3ODg4Nj
-M2MCwtMzUyMTc4NDg2LC01MzE4MTAwMTMsMTAwODk1MTU4NSwt
-MTY4NjA3Mjk5NSwtNTM5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMT
-EzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAx
-MjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLT
-kwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMz
-MzY1Njc3XX0=
+eyJoaXN0b3J5IjpbMTg0OTk3ODQ0MCwtNzQ0MjE3ODIsNzMzMz
+A5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYsLTUzMTgxMDAxMywx
+MDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgxODAsLTEwMj
+IwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYw
+OTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLD
+I2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1
+NzkzOTVdfQ==
 -->
