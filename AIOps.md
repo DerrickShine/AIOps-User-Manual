@@ -63,16 +63,13 @@
 **1. 新增监控数据**
 > ![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_curve.png)
 
-目前支持来自`Prometheus`和`Elasticsearch`的数据
-其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线
-Elasticsearch的数据需手动添加，如下图，应先在
+目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
-上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据
-再将`url`和`query`输入，Test，Add，即可添加
+上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据，再将`url`和`query`输入，Test，Add，即可添加。
 添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
-算法通过
+机器学习算法预测出的s
 
 ### - Labelling
 
@@ -83,10 +80,10 @@ Elasticsearch的数据需手动添加，如下图，应先在
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQxODcyODUsLTEwMjIwMzQ1NzAsLT
-IxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4
-MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4Ny
-wtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2
-MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MT
-g4OTcsLTE2MTUzODgwNTRdfQ==
+eyJoaXN0b3J5IjpbMTExMTY4MTUxMywtMTAyMjAzNDU3MCwtMj
+ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
+MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
+05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
+MzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxOD
+g5NywtMTYxNTM4ODA1NF19
 -->
