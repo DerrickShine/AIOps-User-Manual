@@ -91,10 +91,10 @@
 **检查历史异常预测**
 - 历史上算法预测出的异常会保存在此页面，可以定时查看算法的预测情况，并且将真实结果反馈给算法，不断提高算法性能
 - 若真的为异常情况，应`label as abnormal`；为正常情况，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记
-- `retrain`模型时，算法会使用所有的异常数据，ch
-
+- `retrain`模型时，算法会使用所有的异常数据，抽样选取正常数据（会优先选取反馈的负样本）重新训练，故此环节是算法不断提高准确度，学会发现新形式的异常点的关键
 
 ### - Alerting
+
 
 
 ### - Visualization
@@ -102,11 +102,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MTc5MzcyLC0xNjg2MDcyOTk1LC01Mz
-kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
-MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
-wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
-Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4Nz
-UyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUzODgwNTRd
-fQ==
+eyJoaXN0b3J5IjpbMTc3OTUwOTE5MCwtMTY4NjA3Mjk5NSwtNT
+M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
+OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
+QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
+OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1OD
+c1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0
+XX0=
 -->
