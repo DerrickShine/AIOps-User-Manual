@@ -112,12 +112,13 @@
 **查找曲线**
 - 在`filter`里输入关键词（如km）或曲线ID的一部分可快速查询到想要查询的曲线
 - 勾选一幅或多幅后`Add Graph`（多幅时可以指定`Group Name`）添加到版面中
-- 添加后可以通过右上方的操作栏将此图固定（pin）（刷新页面后保持），取消固定（unpin），移除（remove）
+- 添加后可以通过graph中右上方的操作栏将此图固定（pin）（刷新页面后保持），取消固定（unpin），移除（remove）
 
-**chakan**
+**查看曲线**
+- 整个页面右上角的操作栏可以将页面中所有曲线
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTk0MjM1NCwtMzUyMTc4NDg2LC01Mz
+eyJoaXN0b3J5IjpbMTc5NTYxNTI2NSwtMzUyMTc4NDg2LC01Mz
 E4MTAwMTMsMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5MzI4
 MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNT
 csLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2
