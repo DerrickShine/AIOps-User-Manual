@@ -109,12 +109,12 @@
 
 ![可视化页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/visualization.png)
 
-**查找曲线**
+**1. 查找曲线**
 - 在`filter`里输入关键词（如km）或曲线ID的一部分可快速查询到想要查询的曲线
 - 勾选一幅或多幅后`Add Graph`（多幅时可以指定`Group Name`）添加到版面中
 - 添加后可以通过graph中右上方的操作栏将此图固定（pin）（刷新页面后保持），取消固定（unpin），移除（remove）
 
-**查看曲线**
+**2. 查看曲线**
 
 ![操作栏](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/op_bar.png)
 - 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间前/后移`，`时域缩/放`，`日历上自由选择时间区间`
@@ -124,11 +124,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzMzA5MjQsNzc4ODg2MzYwLC0zNTIxNz
-g0ODYsLTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1
-LC01MzkzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMj
-AxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3
-MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC
-0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1
-NDU4NzUyXX0=
+eyJoaXN0b3J5IjpbMTU3ODEzOTUyOSw3MzMzMDkyNCw3Nzg4OD
+YzNjAsLTM1MjE3ODQ4NiwtNTMxODEwMDEzLDEwMDg5NTE1ODUs
+LTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMTAyMjAzNDU3MCwtMj
+ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
+MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
+05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
+MzM2NTY3N119
 -->
