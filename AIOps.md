@@ -69,10 +69,10 @@
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/kibana.png)
 
 - 添加成功可在上方查到，也可点击`remove`删除
-- 本系统页面中的`url`，`KID`，`name`等字符串均可通过左键点击复制到剪贴板，然后可输入`Filter`查询框中进行查询
+- 本系统页面中的`url`，`KID`，`name`等字符串均可通过左键点击复制到剪贴板，然后可粘贴到`Filter`查询框中进行查询
 
 **2. 设置算法阈值**
-- 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
+- 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity%`之上的点判定为异常，显示到告警页面中。
 - 可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量。
 
 ### - Curve
@@ -124,7 +124,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODEzOTUyOSw3MzMzMDkyNCw3Nzg4OD
+eyJoaXN0b3J5IjpbLTM5Mzk1MjUxOCw3MzMzMDkyNCw3Nzg4OD
 YzNjAsLTM1MjE3ODQ4NiwtNTMxODEwMDEzLDEwMDg5NTE1ODUs
 LTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMTAyMjAzNDU3MCwtMj
 ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
