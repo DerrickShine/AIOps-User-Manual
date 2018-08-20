@@ -69,7 +69,7 @@
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/kibana.png)
 
 - 添加成功可在上方查到，也可点击`remove`删除
-- 本系统页面中的`url``KI`
+- 本系统页面中的`url`，`KID`，`name`等字符串均可通过左键点击复制到剪贴板，然后可输入`Filter`查询框中进行查询
 
 **2. 设置算法阈值**
 - 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
@@ -111,15 +111,15 @@
 
 **查找曲线**
 - 在`filter`里输入关键词（如km）或曲线ID的一部分可快速查询到想要查询的曲线
-- 勾选一幅或多幅后
+- 勾选一幅或多幅后`Add Graph`（多幅时可以指定`Group Name`）添加到，
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1NjE3MTAsLTM1MjE3ODQ4NiwtNT
-MxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMy
-ODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMT
-U3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02
-NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3Nz
-QzMSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIs
-LTE3ODAyMTY4MTRdfQ==
+eyJoaXN0b3J5IjpbMTgzMzk0OTU1MiwtMzUyMTc4NDg2LC01Mz
+E4MTAwMTMsMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5MzI4
+MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNT
+csLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2
+MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3ND
+MxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1Miwt
+MTc4MDIxNjgxNF19
 -->
