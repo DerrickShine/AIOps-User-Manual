@@ -43,7 +43,7 @@
 > 对于历史异常告警，根据图像判断是否判断正确，人为选择标记为正/负样本，系统会定时反馈给机器学习算法
 > ![标注反馈](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_detected.png)
 
-> 在配置页面中调整算法敏感度（敏感度越高，被认定为是异常的例子越多）
+> 在配置页面中调整算法敏感度（对异常判定的敏感程度）
 > ![调整算法敏感度](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/tune_sensitivity.png)
 
 ### 可视化已添加曲线
@@ -68,9 +68,11 @@
 Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
 上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据
-再将`url`和`query`输入，Test，Add，即可添加，并在
+再将`url`和`query`输入，Test，Add，即可添加
+添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
+算法通过
 
 ### - Labelling
 
@@ -81,10 +83,10 @@ Elasticsearch的数据需手动添加，如下图，应先在
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDI4NTM4OCwtMTAyMjAzNDU3MCwtMj
-ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
-MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
-05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
-MzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxOD
-g5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbLTE3NjQxODcyODUsLTEwMjIwMzQ1NzAsLT
+IxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4
+MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4Ny
+wtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2
+MzMzNjU2NzcsOTQ1NDU4NzUyLC0xNzgwMjE2ODE0LDIwODQ4MT
+g4OTcsLTE2MTUzODgwNTRdfQ==
 -->
