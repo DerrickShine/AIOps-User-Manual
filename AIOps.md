@@ -117,14 +117,15 @@
 **查看曲线**
 
 ![操作栏](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/op_bar.png)
-- 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间qian移`
+- 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间前/后移`，`时域缩/放`，`日历上自由选择时间区间`
+- 每幅图中可通过在时间区间上左键拖动实现快捷
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDk4MDE4MiwtMzUyMTc4NDg2LC01Mz
-E4MTAwMTMsMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5MzI4
-MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNT
-csLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2
-MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3ND
-MxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1Miwt
-MTc4MDIxNjgxNF19
+eyJoaXN0b3J5IjpbLTE2OTE0Nzk0NzQsLTM1MjE3ODQ4NiwtNT
+MxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMy
+ODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMT
+U3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02
+NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3Nz
+QzMSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIs
+LTE3ODAyMTY4MTRdfQ==
 -->
