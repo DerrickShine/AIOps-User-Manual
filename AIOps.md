@@ -100,14 +100,15 @@
 
 **查看告警**
 - 此页面会显示出所有目前（1h内）有异常点的曲线，点击可查看曲线趋势状况
-- 若觉得异常太多/t
+- 若觉得告警数量太多/太少，可以通过调低/调高配置页面中的`Sensitivity`来控制
 
 ### - Visualization
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTMwOTQ1OSwtMTY4NjA3Mjk5NSwtNT
+eyJoaXN0b3J5IjpbMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNT
 M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
 OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
 QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
