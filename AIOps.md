@@ -11,8 +11,10 @@
 ## Quick Start
 
 ### 概要
-> AetosDios是通用的时序数据异常检测系统，在此环境下主要用于检测物理机CPU、内存使用曲线和各种业务曲线中的异常点
-> 系统的异常检测算法基于大数据下的机器学习算法，运维人员需通过标注历史数据上的异常点，提供训练数据，并不断对算法预测结果给予反馈，算法会在数据量不断增大和运维人员不断反馈提供的重要数据下
+> AetosDios是通用的时序数据异常检测系统，在此环境下主要用于检测物理机CPU、内存使用曲线和各种业务曲线中的异常点，从而告警，给运维人员提供参考
+> 系统的异常检测算法基于大数据下的机器学习算法，运维人员需通过标注历史数据上的异常点，提供训练数据，并不断对算法预测结果给予反馈
+> 算法会在数据量不断增大和运维人员不断反馈提供的重要数据下不断提高性能
+> 理想情况下发挥机器学习
 
 ### 将想要监测的曲线加入系统
 
@@ -136,11 +138,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEzNDkwMzcsMTYwNjExNjQ0NywxNj
-I2OTUwODE0LC03NDQyMTc4Miw3MzMzMDkyNCw3Nzg4ODYzNjAs
-LTM1MjE3ODQ4NiwtNTMxODEwMDEzLDEwMDg5NTE1ODUsLTE2OD
-YwNzI5OTUsLTUzOTMyODE4MCwtMTAyMjAzNDU3MCwtMjExMzYz
-MDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgwMTI0Ni
-wxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5
-MjUyMjJdfQ==
+eyJoaXN0b3J5IjpbMTY2MTQ1MDQ4LDE2MDYxMTY0NDcsMTYyNj
+k1MDgxNCwtNzQ0MjE3ODIsNzMzMzA5MjQsNzc4ODg2MzYwLC0z
+NTIxNzg0ODYsLTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNjg2MD
+cyOTk1LC01MzkzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1
+MDksMjAxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMT
+EwOTA3MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1
+MjIyXX0=
 -->
