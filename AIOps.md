@@ -59,11 +59,11 @@
 
 ## User Manual
 
-### - Config
+### 1. Config
 
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/configuration.png)
 
-**1. 新增监控数据**
+**- 新增监控数据**
 - 目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
 上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据，再将`url`和`query`输入，Test，Add，即可添加。
@@ -131,11 +131,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjk1MDgxNCwtNzQ0MjE3ODIsNzMzMz
-A5MjQsNzc4ODg2MzYwLC0zNTIxNzg0ODYsLTUzMTgxMDAxMywx
-MDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgxODAsLTEwMj
-IwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1NywtMTIwODYw
-OTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYyNTYxMzcyLD
-I2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0MzEsLTEzNzM1
-NzkzOTVdfQ==
+eyJoaXN0b3J5IjpbMTY5MjI5OTIyOCwxNjI2OTUwODE0LC03ND
+QyMTc4Miw3MzMzMDkyNCw3Nzg4ODYzNjAsLTM1MjE3ODQ4Niwt
+NTMxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOT
+MyODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTky
+MTU3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC
+02NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3
+NzQzMV19
 -->
