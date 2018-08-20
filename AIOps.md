@@ -63,14 +63,14 @@
 ![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/configuration.png)
 
 **1. 新增监控数据**
-目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
+- 目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
 上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据，再将`url`和`query`输入，Test，Add，即可添加。
-添加成功可在上方查到，也可点击`remove`删除
+- 添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
-机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
-可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量。
+- 机器学习算法预测出每个数据点的*异常程度*，为0.0~1.0间的浮点数，系统将某个阈值`Threshold = 1 - Sensitivity`之上的点判定为异常，显示到告警页面中。
+- 可以通过下方的`Algorithm Settings`自行调整`Sensitivity`，控制告警数量。
 
 ### - Curve
 
@@ -89,7 +89,8 @@
 ![标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_page.png)
 
 **检查历史异常预测**
-历史上算法预测出的异常会保存在此页面，可以定时查看算法的预测情况，并且将真实结果反馈给算法，不断提高算法性能
+- 历史上算法预测出的异常会保存在此页面，可以定时查看算法的预测情况，并且将真实结果反馈给算法，不断提高算法性能
+- 若真的为异常情况，应`label as abnormal`；为正常情况
 
 
 ### - Alerting
@@ -100,11 +101,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODk1NzA5MiwtMTY4NjA3Mjk5NSwtNT
-M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
-OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
-QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
-OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1OD
-c1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0
-XX0=
+eyJoaXN0b3J5IjpbNzY0NjIxMTg4LC0xNjg2MDcyOTk1LC01Mz
+kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
+MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
+wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
+Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4Nz
+UyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUzODgwNTRd
+fQ==
 -->
