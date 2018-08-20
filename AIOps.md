@@ -1,4 +1,4 @@
-# AIOps User  Guide
+# AetosDios User  Guide
 
 ### [基本操作](#quick-start)
 ### [用户手册](#user-manual)
@@ -9,6 +9,9 @@
 5. [可视化](#visualization)
 
 ## Quick Start
+
+### 概要
+> AetosDios是通用的时序数据异常检测系统，
 
 ### 将想要监测的曲线加入系统
 
@@ -132,11 +135,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjExNjQ0NywxNjI2OTUwODE0LC03ND
-QyMTc4Miw3MzMzMDkyNCw3Nzg4ODYzNjAsLTM1MjE3ODQ4Niwt
-NTMxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOT
-MyODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTky
-MTU3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC
-02NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3
-NzQzMV19
+eyJoaXN0b3J5IjpbLTM2NzM1ODEyNiwxNjA2MTE2NDQ3LDE2Mj
+Y5NTA4MTQsLTc0NDIxNzgyLDczMzMwOTI0LDc3ODg4NjM2MCwt
+MzUyMTc4NDg2LC01MzE4MTAwMTMsMTAwODk1MTU4NSwtMTY4Nj
+A3Mjk5NSwtNTM5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMw
+NTA5LDIwMTE5OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LD
+ExMDkwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzky
+NTIyMl19
 -->
