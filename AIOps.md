@@ -63,7 +63,7 @@
 **1. 新增监控数据**
 > ![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_curve.png)
 ```
-目前支持来自Prometheus和Elasticsearch的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据
+目前支持来自Prometheus和Elasticsearch的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，参考下图
 ```
 
 **2. 设置算法阈值**
@@ -77,10 +77,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODU1NjQxMiwtMTAyMjAzNDU3MCwtMj
-ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
-MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
-05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
-MzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxOD
-g5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbMjI1Mzk2NzEwLC0xMDIyMDM0NTcwLC0yMT
+EzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAx
+MjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3MiwyNjEwODcwODcsLT
+kwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMz
+MzY1Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNjgxNCwyMDg0ODE4OD
+k3LC0xNjE1Mzg4MDU0XX0=
 -->
