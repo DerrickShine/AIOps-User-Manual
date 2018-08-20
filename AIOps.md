@@ -98,7 +98,7 @@
 **检查历史异常预测**
 - 历史上算法预测出的异常会保存在此页面，可以随时查看算法的预测情况，将真实结果反馈给算法，以此来不断提高算法性能
 - 参考曲线最近的趋势和一天前、一周前的趋势，判断是否为异常
-- 若真的为异常情况，应`label as abnormal`；为正常情况，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记
+- 若真为异常，应`label as abnormal`，此区域的所有红点将会记录为异常点作为之后的训练数据；为正常，应`label as normal`；不确定是否为异常，或此样本不利于算法训练，应不标记，则不会进入训练集
 - `retrain`模型时，算法会使用所有的异常数据，抽样选取正常数据（会优先选取反馈的负样本）重新训练，故此环节是算法不断提高准确度，学会发现新形式的异常点的关键
 
 ---
@@ -130,11 +130,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NDg1NTQyLC03NDQyMTc4Miw3MzMzMD
-kyNCw3Nzg4ODYzNjAsLTM1MjE3ODQ4NiwtNTMxODEwMDEzLDEw
-MDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMyODE4MCwtMTAyMj
-AzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5
-NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMj
-YxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3
-OTM5NV19
+eyJoaXN0b3J5IjpbLTIwMDk2Nzg5OTAsLTc0NDIxNzgyLDczMz
+MwOTI0LDc3ODg4NjM2MCwtMzUyMTc4NDg2LC01MzE4MTAwMTMs
+MTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5MzI4MTgwLC0xMD
+IyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2
+MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3Mi
+wyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzcz
+NTc5Mzk1XX0=
 -->
