@@ -61,9 +61,12 @@
 
 ### - Config
 **1. 新增监控数据**
+> ![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/add_curve.png)
+```
 
+```
 
-**2. **
+**2. 设置算法阈值**
 
 ### - Labelling
 
@@ -74,7 +77,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjA3ODkyNSwtMTAyMjAzNDU3MCwtMj
+eyJoaXN0b3J5IjpbLTE2MTQwMTQwNSwtMTAyMjAzNDU3MCwtMj
 ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
 MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
 05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
