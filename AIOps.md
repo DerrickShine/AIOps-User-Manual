@@ -69,7 +69,7 @@
 添加成功可在上方查到，也可点击`remove`删除
 
 **2. 设置算法阈值**
-机器学习算法预测出的s
+机器学习算法预测出每个数据点的*异常程度*，
 
 ### - Labelling
 
@@ -80,7 +80,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTY4MTUxMywtMTAyMjAzNDU3MCwtMj
+eyJoaXN0b3J5IjpbMTA3MTQxMTUxMSwtMTAyMjAzNDU3MCwtMj
 ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
 MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
 05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
