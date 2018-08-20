@@ -75,6 +75,7 @@
 ### - Curve
 
 ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/curve.png)
+
 **标注异常**
 使用输入框查询到特定曲线后，在下方标注异常点
 通过下方`navigation bar`选取时间范围，也可左右移动时间窗口
@@ -85,6 +86,9 @@
 
 ### - Labelling
 
+![标注页面](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling_page.png)
+
+**
 
 ### - Alerting
 
@@ -94,11 +98,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4Mjk0MTk0LC0xNjg2MDcyOTk1LC01Mz
-kzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5
-MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNC
-wtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5
-Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4Nz
-UyLC0xNzgwMjE2ODE0LDIwODQ4MTg4OTcsLTE2MTUzODgwNTRd
-fQ==
+eyJoaXN0b3J5IjpbMTM0MTAxMzk0MSwtMTY4NjA3Mjk5NSwtNT
+M5MzI4MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5
+OTIxNTcsLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MT
+QsLTY2MjU2MTM3MiwyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4
+OTc3NDMxLC0xMzczNTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1OD
+c1MiwtMTc4MDIxNjgxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0
+XX0=
 -->
