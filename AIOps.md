@@ -115,10 +115,12 @@
 - 添加后可以通过graph中右上方的操作栏将此图固定（pin）（刷新页面后保持），取消固定（unpin），移除（remove）
 
 **查看曲线**
-- 整个页面右上角的操作栏可以将页面中所有曲线
+
+![操作栏](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/op_bar.png)
+- 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间qian移`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTYxNTI2NSwtMzUyMTc4NDg2LC01Mz
+eyJoaXN0b3J5IjpbMjA3NDk4MDE4MiwtMzUyMTc4NDg2LC01Mz
 E4MTAwMTMsMTAwODk1MTU4NSwtMTY4NjA3Mjk5NSwtNTM5MzI4
 MTgwLC0xMDIyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNT
 csLTEyMDg2MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2
