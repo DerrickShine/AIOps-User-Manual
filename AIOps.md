@@ -118,14 +118,15 @@
 
 ![操作栏](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/op_bar.png)
 - 整个页面右上角的操作栏可以将页面中所有曲线`刷新`，`时间前/后移`，`时域缩/放`，`日历上自由选择时间区间`
-- 每幅图中可通过在时间区间上左键拖动实现快捷
+- 每幅图中可通过在时间区间上左键拖动实现快捷`Zone In`，也可`Reset Zone`
+- `x轴`下的图例可以点击使该条曲线显示/隐藏
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE0Nzk0NzQsLTM1MjE3ODQ4NiwtNT
-MxODEwMDEzLDEwMDg5NTE1ODUsLTE2ODYwNzI5OTUsLTUzOTMy
-ODE4MCwtMTAyMjAzNDU3MCwtMjExMzYzMDUwOSwyMDExOTkyMT
-U3LC0xMjA4NjA5NjUsMTU3NDgwMTI0NiwxMTA5MDczNTE0LC02
-NjI1NjEzNzIsMjYxMDg3MDg3LC05MDM5MjUyMjIsLTE0ODk3Nz
-QzMSwtMTM3MzU3OTM5NSwtMTYzMzM2NTY3Nyw5NDU0NTg3NTIs
-LTE3ODAyMTY4MTRdfQ==
+eyJoaXN0b3J5IjpbNzY5MjEwNTAxLC0zNTIxNzg0ODYsLTUzMT
+gxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgx
+ODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1Ny
+wtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYy
+NTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0Mz
+EsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4NzUyLC0x
+NzgwMjE2ODE0XX0=
 -->
