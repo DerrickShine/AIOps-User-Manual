@@ -60,9 +60,9 @@
 ## User Manual
 
 ### - Config
-**1. 新增监控数据**
-> ![添加曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/configuration.png)
+![配置](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/configuration.png)
 
+**1. 新增监控数据**
 目前支持来自`Prometheus`和`Elasticsearch`的数据，其中Prom的数据后端会定时自动添加/删除，保留有数据的曲线；Elasticsearch的数据需手动添加，如下图，应先在
 `http://kibana.pot.oa.com/app/kibana#/dev_tools/console?_g=()`
 上将`url+query`调试通过，左方查询体能够成功查询到右方时序数据，再将`url`和`query`输入，Test，Add，即可添加。
@@ -74,17 +74,20 @@
 
 ### - Labelling
 
+****
+
 ### - Alerting
+
 
 ### - Visualization
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTMyODE4MCwtMTAyMjAzNDU3MCwtMj
-ExMzYzMDUwOSwyMDExOTkyMTU3LC0xMjA4NjA5NjUsMTU3NDgw
-MTI0NiwxMTA5MDczNTE0LC02NjI1NjEzNzIsMjYxMDg3MDg3LC
-05MDM5MjUyMjIsLTE0ODk3NzQzMSwtMTM3MzU3OTM5NSwtMTYz
-MzM2NTY3Nyw5NDU0NTg3NTIsLTE3ODAyMTY4MTQsMjA4NDgxOD
-g5NywtMTYxNTM4ODA1NF19
+eyJoaXN0b3J5IjpbMTA2MzYzMDQ2NSwtNTM5MzI4MTgwLC0xMD
+IyMDM0NTcwLC0yMTEzNjMwNTA5LDIwMTE5OTIxNTcsLTEyMDg2
+MDk2NSwxNTc0ODAxMjQ2LDExMDkwNzM1MTQsLTY2MjU2MTM3Mi
+wyNjEwODcwODcsLTkwMzkyNTIyMiwtMTQ4OTc3NDMxLC0xMzcz
+NTc5Mzk1LC0xNjMzMzY1Njc3LDk0NTQ1ODc1MiwtMTc4MDIxNj
+gxNCwyMDg0ODE4ODk3LC0xNjE1Mzg4MDU0XX0=
 -->
