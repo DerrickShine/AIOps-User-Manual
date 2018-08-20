@@ -25,7 +25,7 @@
 > 找出并点选曲线
 > ![搜索待标注曲线](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/search_curve_to_label.png)
 
-> 左右移动时间窗口，在异常区域按住左键拖放鼠标标记，按住`Ctrl`左键拖放鼠标取消区域标记
+> 左右移动时间窗口，在异常区域按住`Ctrl`左键拖放鼠标标记，按住`Shift`左键拖放鼠标取消区域标记
 > ![标注](https://github.com/DerrickShine/AIOps-User-Manual/blob/master/pic/labelling.png)
 
 > 无需手动保存更改
@@ -124,11 +124,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4ODg2MzYwLC0zNTIxNzg0ODYsLTUzMT
-gxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1LC01MzkzMjgx
-ODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMjAxMTk5MjE1Ny
-wtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3MzUxNCwtNjYy
-NTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC0xNDg5Nzc0Mz
-EsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1NDU4NzUyLC0x
-NzgwMjE2ODE0XX0=
+eyJoaXN0b3J5IjpbNzMzMzA5MjQsNzc4ODg2MzYwLC0zNTIxNz
+g0ODYsLTUzMTgxMDAxMywxMDA4OTUxNTg1LC0xNjg2MDcyOTk1
+LC01MzkzMjgxODAsLTEwMjIwMzQ1NzAsLTIxMTM2MzA1MDksMj
+AxMTk5MjE1NywtMTIwODYwOTY1LDE1NzQ4MDEyNDYsMTEwOTA3
+MzUxNCwtNjYyNTYxMzcyLDI2MTA4NzA4NywtOTAzOTI1MjIyLC
+0xNDg5Nzc0MzEsLTEzNzM1NzkzOTUsLTE2MzMzNjU2NzcsOTQ1
+NDU4NzUyXX0=
 -->
